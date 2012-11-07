@@ -9,7 +9,7 @@
 </parent>
 
   <groupId>io.atha</groupId>
-  <artifactId>a4-submodule-1</artifactId>
+  <artifactId>root-submodule-1</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
