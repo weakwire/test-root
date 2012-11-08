@@ -28,7 +28,7 @@
   </distributionManagement>
 
   <modules>
-    <module>a4-submodule-1</module>
-    <module>a4-submodule-2</module>
+    <module>root-submodule-1</module>
+    <module>root-submodule-2</module>
   </modules>
 </project>
