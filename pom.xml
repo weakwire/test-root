@@ -26,5 +26,16 @@
      <uniqueVersion>false</uniqueVersion>
     </repository>
   </distributionManagement>
-
+ <dependencies>
+    <dependency>
+      <groupId>io.atha</groupId>
+      <artifactId>root-submodule-1</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>io.atha</groupId>
+      <artifactId>root-submodule-2</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>    
+  </dependencies>
 </project>
