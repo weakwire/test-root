@@ -27,8 +27,4 @@
     </repository>
   </distributionManagement>
 
-  <modules>
-    <module>root-submodule-1</module>
-    <module>root-submodule-2</module>
-  </modules>
 </project>
