@@ -9,7 +9,7 @@
 
   <scm>
     <connection>scm:git:https://github.com/weakwire/test-root.git</connection>
-    <url>https://github.com/weakwire/test-a4</url>
+    <url>https://github.com/weakwire/test-root</url>
     <developerConnection>scm:git:git@github.com:weakwire/test-root.git</developerConnection>
   </scm>
 
